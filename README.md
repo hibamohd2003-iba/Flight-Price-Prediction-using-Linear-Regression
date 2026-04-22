@@ -1,4 +1,4 @@
-# ✈️ Flight Price Prediction using Linear Regression
+# ✈️ Flight Price Prediction- Linear Regression-USING R
 
 A machine learning project that predicts airline ticket prices using Linear Regression, implemented in **R**.
 
