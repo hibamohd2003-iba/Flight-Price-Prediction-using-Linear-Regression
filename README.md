@@ -158,4 +158,4 @@ All plots will be saved as `.png` files in the working directory.
 ## 👩‍💻 Author
 
 **Hiba Muhammed** | Roll No: 25 | S6IE  
-Department of Information Engineering
+Department of Industrial Engineering
